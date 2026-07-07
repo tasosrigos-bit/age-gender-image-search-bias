@@ -10,7 +10,3 @@ Reproducing key results from a Nature study (Guilbeault et al., 2024) on how onl
 - `myData/experiment_treatment.csv` — age estimates from the treatment group
 - `plots/` — all generated plots in SVG format and one interactive HTML file
 - `requirements.txt` — Python version and library dependencies
-
-## Note
-
-The notebook was written to be read as a standalone document, independently of the assignment. Throughout the notebook I explain what the article does, why each analysis is performed, and what the results mean, so that someone with no prior knowledge of the assignment can follow it.
